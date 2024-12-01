@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:1.12.2024
+## Register Number: 24900645
+## Name: W Allen Johnston Ozario
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,69 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1.User-Friendly Registration: Create simple and intuitive registration processes for
+ alumni to join, update their profiles, and stay connected through both web and mobile
+ platforms.
+ 
+2.Networking Hub: Develop sections dedicated to networking based on interests,
+ professions, and locations, allowing alumni to connect and collaborate with peers.
+ 
+3.Donation Portal: Implement a secure and easy-to-use donation portal to facilitate
+ contributions to college initiatives and projects.
 
+4.Job Portal: Integrate job search and posting features to help alumni explore job
+ opportunities and connect with potential employers.
+ 
+5.Events and Reunions: Provide tools for organizing and managing events, reunions, and
+ announcements, fostering a sense of community and engagement among alumni.
 
 ## Proposed Solution / Architecture Diagram
 
+![architecture diagram](https://github.com/user-attachments/assets/003bf090-e7f7-4d4b-ace0-891fa16be23e)
 
 ## Use Cases
 
+![use cases](https://github.com/user-attachments/assets/1e8f1683-50c8-4994-85ec-b3b86231ceff)
 
 ## Technology Stack
 
+Technology Stack Frontend HTML5/CSS3: For structuring and styling the web pages.
+ JavaScript: Core scripting language for interactive elements.
+ Frontend Frameworks: React.js, Angular, or Vue.jsfor building dynamic and responsive
+ user interfaces.
+ Mobile Development: React Native or Flutter for developing mobile applications for
+ both iOS and Android.
+ Backend Node.js: A JavaScript runtime for building fast and scalable server-side
+ applications.
+ Express.js: A web application framework for Node.jsto handle routing and middleware.
+ Django (for Python enthusiasts): A high-level Python web framework for building robust
+ backend services.
+ Database Relational Database: PostgreSQL or MySQL for managing structured data with
+ complex relationships.
+ NoSQL Database: MongoDB or DynamoDB for handling unstructured data and
+ providing flexibility in data modeling.
+ In-Memory Data Store: Redis for caching and real-time data processing.
+ Authentication and Authorization OAuth2.0: For secure authentication and
+ authorization.
+ JWT (JSON Web Tokens): For securely transmitting information between parties as a
+ JSON object.
+ API Management GraphQL: For flexible and efficient data fetching.
+ RESTful APIs: For standard and simpler API creation and integration.
+ Cloud Infrastructure Amazon Web Services (AWS): For hosting, storage, and database
+ management. Services like EC2, S3, RDS, and Lambda can be used.
+ Technology Stack
+Google Cloud Platform (GCP) or Microsoft Azure: Alternatives to AWS with similar
+ services.
+ DevOps and CI/CD Docker: For containerizing applications to ensure consistency across
+ different environments.
+ Kubernetes: For container orchestration and management.
+ Jenkins: For automating CI/CD pipelines.
+ GitHub Actions: For integrating CI/CD directly within the code repository.
+ Security SSL/TLS: For encrypting data in transit
 
 ## Dependencies
+Networking service- 10 days
 
+Data collection- 10 days
+
+budget- rs.70,000
